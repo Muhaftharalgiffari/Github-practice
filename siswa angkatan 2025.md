@@ -19,7 +19,7 @@
    TTL    : Samarinda, 22 Desember 2002<br>
    Alamat : Jln. Keledang RT.13 No.26<br>
  
-4. Nama   : Ilham ILyas<br>
+4. Nama   : Miko<br>
    NIM    : H2020000004<br>
    JK     : Laki - Laki<br>
    Agama  : Islam<br>
@@ -32,3 +32,5 @@
    Agama  : Islam<br>
    TTL    : Ambon, 19 Agustus 2003<br>
    Alamat : Jln. Loa Bakung RT.21 No.04<br>
+
+
