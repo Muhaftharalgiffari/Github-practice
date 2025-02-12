@@ -33,4 +33,13 @@
    TTL    : Ambon, 19 Agustus 2003<br>
    Alamat : Jln. Loa Bakung RT.21 No.04<br>
 
+6. Nama   : Sora<br>
+   NIM    : H2020000005<br>
+   JK     : Laki - Laki<br>
+   Agama  : Islam<br>
+   TTL    : Ambon, 19 Agustus 2003<br>
+   Alamat : Jln. Loa Bakung RT.21 No.04<br>
+
+   
+
 
